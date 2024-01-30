@@ -15,3 +15,7 @@ While Palworld is certainly not a triple A quality game in terms of graphics or 
 ## Christina Borao (crb623) Reflections
  
 I do not play many video games, and because of this, I was unfamiliar with  Steam sensation Palworld. This article is interesting because it taught me what Palword is and opened my eyes to the issues that can arise when developing a video game, not only from a technical perspective but also from a business one.
+
+## Ahmet Ilten (ai2068) Reflections
+
+This was a very entertaining and interesting article to read. The main point I took away from it is the importance of gaining momentum. They started building first, and solved problems as they come, instead of coming up with a big plan and budget first. They got the momentum first, and improvised as they went along. I think this is a good way to go about life as well, if you go about planning and calculating everything beforehand, you might never actually get to start, or lose the opportunity.
